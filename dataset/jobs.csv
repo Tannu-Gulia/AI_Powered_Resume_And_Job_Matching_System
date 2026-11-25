@@ -1,0 +1,569 @@
+job_id,title,company,category,location,job_type,experience_level,min_experience_years,salary_range,required_skills,qualifications,description,responsibilities,posted_date
+1,Junior Data Analyst,Google,Data Science & Analytics,"Bangalore, India",Hybrid,Entry,0,4.5 - 7 LPA,"Python, SQL, Excel, Tableau, Statistics, Problem Solving, Docker","Bachelor's or Master's in Data Science, Computer Science, Statistics or MCA","Collect, clean, and interpret data sets to answer business questions. Create actionable dashboards using Tableau and SQL.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Excel.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-08
+2,Junior Data Analyst,Deloitte,Data Science & Analytics,"Hyderabad, India",On-site,Entry,0,4.5 - 7 LPA,"Python, SQL, Excel, Tableau, Statistics, Problem Solving","Bachelor's or Master's in Data Science, Computer Science, Statistics or MCA","Collect, clean, and interpret data sets to answer business questions. Create actionable dashboards using Tableau and SQL.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Excel.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-24
+3,Junior Data Analyst,TCS,Data Science & Analytics,"Mumbai, India",Hybrid,Entry,0,4.5 - 7 LPA,"Python, SQL, Excel, Tableau, Statistics, Problem Solving, Communication","Bachelor's or Master's in Data Science, Computer Science, Statistics or MCA","Collect, clean, and interpret data sets to answer business questions. Create actionable dashboards using Tableau and SQL.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Excel.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-19
+4,Data Analyst II,Microsoft,Data Science & Analytics,"Hyderabad, India",Hybrid,Mid,2,8 - 14 LPA,"Python, SQL, Pandas, Power BI, Statistics, Communication, Git",B.Tech / MCA / M.Sc in Data Science or Analytics,"Lead analytics initiatives, perform exploratory data analysis, and translate business requirements into executive reports.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Pandas.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+5,Data Analyst II,Accenture,Data Science & Analytics,"Gurgaon, India",Hybrid,Mid,2,8 - 14 LPA,"Python, SQL, Pandas, Power BI, Statistics, Communication, Agile Methodology",B.Tech / MCA / M.Sc in Data Science or Analytics,"Lead analytics initiatives, perform exploratory data analysis, and translate business requirements into executive reports.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Pandas.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-17
+6,Data Analyst II,HCL Technologies,Data Science & Analytics,"Noida, India",Remote,Mid,2,8 - 14 LPA,"Python, SQL, Pandas, Power BI, Statistics, Communication, Git",B.Tech / MCA / M.Sc in Data Science or Analytics,"Lead analytics initiatives, perform exploratory data analysis, and translate business requirements into executive reports.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Pandas.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-18
+7,Data Analyst II,Accenture,Data Science & Analytics,"Gurgaon, India",Hybrid,Mid,2,8 - 14 LPA,"Python, SQL, Pandas, Power BI, Statistics, Communication, REST API",B.Tech / MCA / M.Sc in Data Science or Analytics,"Lead analytics initiatives, perform exploratory data analysis, and translate business requirements into executive reports.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Pandas.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-08
+8,Senior Data Scientist,JPMorgan Chase,Data Science & Analytics,"Mumbai, India",Hybrid,Senior,5,18 - 30 LPA,"Python, Machine Learning, Scikit-learn, Pandas, SQL, Statistics, Problem Solving, Docker","Master's or Ph.D. in Computer Science, Statistics, Mathematics or MCA","Architect, build, and deploy predictive ML models. Drive high-impact machine learning algorithms to solve customer churn and lifetime value.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-26
+9,Senior Data Scientist,Google,Data Science & Analytics,"Bangalore, India",Hybrid,Senior,5,18 - 30 LPA,"Python, Machine Learning, Scikit-learn, Pandas, SQL, Statistics, Problem Solving","Master's or Ph.D. in Computer Science, Statistics, Mathematics or MCA","Architect, build, and deploy predictive ML models. Drive high-impact machine learning algorithms to solve customer churn and lifetime value.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-23
+10,Senior Data Scientist,Swiggy,Data Science & Analytics,"Bangalore, India",Remote,Senior,5,18 - 30 LPA,"Python, Machine Learning, Scikit-learn, Pandas, SQL, Statistics, Problem Solving","Master's or Ph.D. in Computer Science, Statistics, Mathematics or MCA","Architect, build, and deploy predictive ML models. Drive high-impact machine learning algorithms to solve customer churn and lifetime value.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+11,Senior Data Scientist,Infosys,Data Science & Analytics,"Pune, India",Remote,Senior,5,18 - 30 LPA,"Python, Machine Learning, Scikit-learn, Pandas, SQL, Statistics, Problem Solving, Agile Methodology","Master's or Ph.D. in Computer Science, Statistics, Mathematics or MCA","Architect, build, and deploy predictive ML models. Drive high-impact machine learning algorithms to solve customer churn and lifetime value.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-25
+12,Lead Data Scientist,TCS,Data Science & Analytics,"Mumbai, India",Hybrid,Lead,7,28 - 45 LPA,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Team Leadership, Communication","M.Tech / MCA / Ph.D. in AI, CS, or quantitative disciplines","Mentor data scientists, drive core algorithmic roadmap, and productionize large-scale deep learning models.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+13,Lead Data Scientist,TCS,Data Science & Analytics,"Mumbai, India",Hybrid,Lead,7,28 - 45 LPA,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Team Leadership","M.Tech / MCA / Ph.D. in AI, CS, or quantitative disciplines","Mentor data scientists, drive core algorithmic roadmap, and productionize large-scale deep learning models.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-28
+14,Lead Data Scientist,Capgemini,Data Science & Analytics,"Mumbai, India",On-site,Lead,7,28 - 45 LPA,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Team Leadership, Docker","M.Tech / MCA / Ph.D. in AI, CS, or quantitative disciplines","Mentor data scientists, drive core algorithmic roadmap, and productionize large-scale deep learning models.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-26
+15,Lead Data Scientist,Microsoft,Data Science & Analytics,"Hyderabad, India",Hybrid,Lead,7,28 - 45 LPA,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Team Leadership, Linux","M.Tech / MCA / Ph.D. in AI, CS, or quantitative disciplines","Mentor data scientists, drive core algorithmic roadmap, and productionize large-scale deep learning models.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-18
+16,Healthcare Data Analyst,Flipkart,Data Science & Analytics,"Bangalore, India",Hybrid,Mid,2,7.5 - 12 LPA,"Python, R, SQL, Tableau, Statistics, Critical Thinking, Communication","Bachelor's or Master's in Health Informatics, Data Science, or MCA","Analyze patient clinical trends, clinical trials, and operational health metrics while adhering to data privacy standards.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, R, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-18
+17,Healthcare Data Analyst,Oracle,Data Science & Analytics,"Bengaluru, India",Hybrid,Mid,2,7.5 - 12 LPA,"Python, R, SQL, Tableau, Statistics, Critical Thinking","Bachelor's or Master's in Health Informatics, Data Science, or MCA","Analyze patient clinical trends, clinical trials, and operational health metrics while adhering to data privacy standards.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, R, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-19
+18,Healthcare Data Analyst,Accenture,Data Science & Analytics,"Gurgaon, India",Hybrid,Mid,2,7.5 - 12 LPA,"Python, R, SQL, Tableau, Statistics, Critical Thinking, Communication","Bachelor's or Master's in Health Informatics, Data Science, or MCA","Analyze patient clinical trends, clinical trials, and operational health metrics while adhering to data privacy standards.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, R, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-02
+19,Financial Data Analyst,Oracle,Data Science & Analytics,"Bengaluru, India",Hybrid,Mid,3,9 - 16 LPA,"Python, SQL, Excel, Power BI, Statistics, Analytical Thinking, Communication","Degree in Finance, Data Science, Statistics, or MCA","Develop financial forecasting models, credit risk assessment matrices, and interactive Power BI executive dashboards.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Excel.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-28
+20,Financial Data Analyst,Deloitte,Data Science & Analytics,"Hyderabad, India",On-site,Mid,3,9 - 16 LPA,"Python, SQL, Excel, Power BI, Statistics, Analytical Thinking, Communication","Degree in Finance, Data Science, Statistics, or MCA","Develop financial forecasting models, credit risk assessment matrices, and interactive Power BI executive dashboards.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Excel.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+21,Financial Data Analyst,IBM,Data Science & Analytics,"Bangalore, India",Remote,Mid,3,9 - 16 LPA,"Python, SQL, Excel, Power BI, Statistics, Analytical Thinking, Linux","Degree in Finance, Data Science, Statistics, or MCA","Develop financial forecasting models, credit risk assessment matrices, and interactive Power BI executive dashboards.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in Python, SQL, Excel.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-21
+22,Marketing Analytics Specialist,Wipro,Data Science & Analytics,"Bangalore, India",Hybrid,Entry,1,5 - 8.5 LPA,"SQL, Python, Tableau, Excel, Communication, Problem Solving","Bachelor's / Master's degree in Marketing, Business Analytics or MCA","Track marketing spend attribution, ROI across customer acquisition funnels, and customer retention metrics.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in SQL, Python, Tableau.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-12
+23,Marketing Analytics Specialist,Accenture,Data Science & Analytics,"Gurgaon, India",Hybrid,Entry,1,5 - 8.5 LPA,"SQL, Python, Tableau, Excel, Communication, Problem Solving, Docker","Bachelor's / Master's degree in Marketing, Business Analytics or MCA","Track marketing spend attribution, ROI across customer acquisition funnels, and customer retention metrics.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in SQL, Python, Tableau.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-23
+24,Marketing Analytics Specialist,LTI Mindtree,Data Science & Analytics,"Chennai, India",Hybrid,Entry,1,5 - 8.5 LPA,"SQL, Python, Tableau, Excel, Communication, Problem Solving","Bachelor's / Master's degree in Marketing, Business Analytics or MCA","Track marketing spend attribution, ROI across customer acquisition funnels, and customer retention metrics.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in SQL, Python, Tableau.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-20
+25,Marketing Analytics Specialist,Tech Mahindra,Data Science & Analytics,"Pune, India",Hybrid,Entry,1,5 - 8.5 LPA,"SQL, Python, Tableau, Excel, Communication, Problem Solving","Bachelor's / Master's degree in Marketing, Business Analytics or MCA","Track marketing spend attribution, ROI across customer acquisition funnels, and customer retention metrics.","- Collaborate with cross-functional teams to design, implement, and maintain Data Science & Analytics solutions.
+- Apply best engineering practices in SQL, Python, Tableau.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-18
+26,Associate ML Engineer,Wipro,Machine Learning & AI,"Bangalore, India",Hybrid,Entry,0,6 - 10 LPA,"Python, Machine Learning, Scikit-learn, NumPy, Pandas, Git, Linux",B.Tech / MCA / M.Sc Computer Science or Artificial Intelligence,"Assist in preparing datasets, training baseline ML models, feature engineering, and conducting hyperparameter tuning.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+27,Associate ML Engineer,IBM,Machine Learning & AI,"Bangalore, India",Remote,Entry,0,6 - 10 LPA,"Python, Machine Learning, Scikit-learn, NumPy, Pandas, Git, Agile Methodology",B.Tech / MCA / M.Sc Computer Science or Artificial Intelligence,"Assist in preparing datasets, training baseline ML models, feature engineering, and conducting hyperparameter tuning.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+28,Associate ML Engineer,Cognizant,Machine Learning & AI,"Chennai, India",Hybrid,Entry,0,6 - 10 LPA,"Python, Machine Learning, Scikit-learn, NumPy, Pandas, Git",B.Tech / MCA / M.Sc Computer Science or Artificial Intelligence,"Assist in preparing datasets, training baseline ML models, feature engineering, and conducting hyperparameter tuning.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Machine Learning, Scikit-learn.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-08
+29,Machine Learning Engineer,Cognizant,Machine Learning & AI,"Chennai, India",Hybrid,Mid,2,12 - 20 LPA,"Python, Machine Learning, Deep Learning, PyTorch, Docker, REST API",B.Tech / MCA / M.Tech in Computer Science or Data Science,"Develop robust production ML pipelines, build inference APIs, and integrate models with enterprise backend systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+30,Machine Learning Engineer,Amazon,Machine Learning & AI,"Bangalore, India",On-site,Mid,2,12 - 20 LPA,"Python, Machine Learning, Deep Learning, PyTorch, Docker, REST API, Agile Methodology",B.Tech / MCA / M.Tech in Computer Science or Data Science,"Develop robust production ML pipelines, build inference APIs, and integrate models with enterprise backend systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-30
+31,Machine Learning Engineer,JPMorgan Chase,Machine Learning & AI,"Mumbai, India",Hybrid,Mid,2,12 - 20 LPA,"Python, Machine Learning, Deep Learning, PyTorch, Docker, REST API, SQL",B.Tech / MCA / M.Tech in Computer Science or Data Science,"Develop robust production ML pipelines, build inference APIs, and integrate models with enterprise backend systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Machine Learning, Deep Learning.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+32,NLP Engineer,Flipkart,Machine Learning & AI,"Bangalore, India",Hybrid,Mid,3,14 - 24 LPA,"Python, Natural Language Processing, NLP, PyTorch, Transformers, Scikit-learn, Linux","Master's degree in CS, Computational Linguistics, MCA or equivalent","Build modern NLP pipelines, text classification, named entity recognition (NER), and sentiment analysis models.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Natural Language Processing, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-05
+33,NLP Engineer,IBM,Machine Learning & AI,"Bangalore, India",Remote,Mid,3,14 - 24 LPA,"Python, Natural Language Processing, NLP, PyTorch, Transformers, Scikit-learn, Problem Solving","Master's degree in CS, Computational Linguistics, MCA or equivalent","Build modern NLP pipelines, text classification, named entity recognition (NER), and sentiment analysis models.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Natural Language Processing, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-08
+34,NLP Engineer,Goldman Sachs,Machine Learning & AI,"Bengaluru, India",Hybrid,Mid,3,14 - 24 LPA,"Python, Natural Language Processing, NLP, PyTorch, Transformers, Scikit-learn, Docker","Master's degree in CS, Computational Linguistics, MCA or equivalent","Build modern NLP pipelines, text classification, named entity recognition (NER), and sentiment analysis models.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Natural Language Processing, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-24
+35,NLP Engineer,JPMorgan Chase,Machine Learning & AI,"Mumbai, India",Hybrid,Mid,3,14 - 24 LPA,"Python, Natural Language Processing, NLP, PyTorch, Transformers, Scikit-learn, REST API","Master's degree in CS, Computational Linguistics, MCA or equivalent","Build modern NLP pipelines, text classification, named entity recognition (NER), and sentiment analysis models.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Natural Language Processing, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+36,Computer Vision Engineer,Capgemini,Machine Learning & AI,"Mumbai, India",On-site,Senior,4,16 - 28 LPA,"Python, Computer Vision, PyTorch, TensorFlow, Docker, C++, Agile Methodology",B.Tech / M.Tech / MCA in Computer Science or Robotics,"Design and optimize image segmentation, object detection, and video stream analytics systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Computer Vision, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-05
+37,Computer Vision Engineer,Reliance Jio,Machine Learning & AI,"Navi Mumbai, India",Hybrid,Senior,4,16 - 28 LPA,"Python, Computer Vision, PyTorch, TensorFlow, Docker, C++, Linux",B.Tech / M.Tech / MCA in Computer Science or Robotics,"Design and optimize image segmentation, object detection, and video stream analytics systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Computer Vision, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+38,Computer Vision Engineer,Microsoft,Machine Learning & AI,"Hyderabad, India",Hybrid,Senior,4,16 - 28 LPA,"Python, Computer Vision, PyTorch, TensorFlow, Docker, C++, Communication",B.Tech / M.Tech / MCA in Computer Science or Robotics,"Design and optimize image segmentation, object detection, and video stream analytics systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Computer Vision, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-05
+39,Computer Vision Engineer,Tech Mahindra,Machine Learning & AI,"Pune, India",Hybrid,Senior,4,16 - 28 LPA,"Python, Computer Vision, PyTorch, TensorFlow, Docker, C++, Problem Solving",B.Tech / M.Tech / MCA in Computer Science or Robotics,"Design and optimize image segmentation, object detection, and video stream analytics systems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Computer Vision, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-26
+40,Generative AI & LLM Specialist,HCL Technologies,Machine Learning & AI,"Noida, India",Remote,Senior,4,20 - 35 LPA,"Python, PyTorch, NLP, FastAPI, Docker, Problem Solving, Communication",M.Tech / MCA / Ph.D. in Artificial Intelligence or CS,"Fine-tune Large Language Models (LLMs), build Retrieval-Augmented Generation (RAG) architectures, and vector search engines.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, PyTorch, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+41,Generative AI & LLM Specialist,Flipkart,Machine Learning & AI,"Bangalore, India",Hybrid,Senior,4,20 - 35 LPA,"Python, PyTorch, NLP, FastAPI, Docker, Problem Solving, Linux",M.Tech / MCA / Ph.D. in Artificial Intelligence or CS,"Fine-tune Large Language Models (LLMs), build Retrieval-Augmented Generation (RAG) architectures, and vector search engines.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, PyTorch, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-17
+42,Generative AI & LLM Specialist,IBM,Machine Learning & AI,"Bangalore, India",Remote,Senior,4,20 - 35 LPA,"Python, PyTorch, NLP, FastAPI, Docker, Problem Solving, Git",M.Tech / MCA / Ph.D. in Artificial Intelligence or CS,"Fine-tune Large Language Models (LLMs), build Retrieval-Augmented Generation (RAG) architectures, and vector search engines.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, PyTorch, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+43,Generative AI & LLM Specialist,TCS,Machine Learning & AI,"Mumbai, India",Hybrid,Senior,4,20 - 35 LPA,"Python, PyTorch, NLP, FastAPI, Docker, Problem Solving",M.Tech / MCA / Ph.D. in Artificial Intelligence or CS,"Fine-tune Large Language Models (LLMs), build Retrieval-Augmented Generation (RAG) architectures, and vector search engines.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, PyTorch, NLP.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-25
+44,Deep Learning Research Scientist,TCS,Machine Learning & AI,"Mumbai, India",Hybrid,Senior,5,25 - 42 LPA,"Python, Deep Learning, PyTorch, TensorFlow, Statistics, Critical Thinking, Docker","Ph.D. or Master's in Machine Learning, Computer Science, or MCA","Publish research, benchmark novel neural architectures, and apply cutting-edge deep learning to mission-critical problems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Deep Learning, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-14
+45,Deep Learning Research Scientist,Wipro,Machine Learning & AI,"Bangalore, India",Hybrid,Senior,5,25 - 42 LPA,"Python, Deep Learning, PyTorch, TensorFlow, Statistics, Critical Thinking, Linux","Ph.D. or Master's in Machine Learning, Computer Science, or MCA","Publish research, benchmark novel neural architectures, and apply cutting-edge deep learning to mission-critical problems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Deep Learning, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-01
+46,Deep Learning Research Scientist,IBM,Machine Learning & AI,"Bangalore, India",Remote,Senior,5,25 - 42 LPA,"Python, Deep Learning, PyTorch, TensorFlow, Statistics, Critical Thinking, Problem Solving","Ph.D. or Master's in Machine Learning, Computer Science, or MCA","Publish research, benchmark novel neural architectures, and apply cutting-edge deep learning to mission-critical problems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Deep Learning, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-17
+47,Deep Learning Research Scientist,TCS,Machine Learning & AI,"Mumbai, India",Hybrid,Senior,5,25 - 42 LPA,"Python, Deep Learning, PyTorch, TensorFlow, Statistics, Critical Thinking, Docker","Ph.D. or Master's in Machine Learning, Computer Science, or MCA","Publish research, benchmark novel neural architectures, and apply cutting-edge deep learning to mission-critical problems.","- Collaborate with cross-functional teams to design, implement, and maintain Machine Learning & AI solutions.
+- Apply best engineering practices in Python, Deep Learning, PyTorch.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-27
+48,Junior Python Developer,Infosys,Python & Backend Development,"Pune, India",Remote,Entry,0,4 - 7 LPA,"Python, Django, SQL, Git, HTML5, Problem Solving",B.Sc / BCA / MCA / B.Tech in Computer Science or IT,"Write clean, testable Python code for backend services, implement database models, and write automated tests.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-25
+49,Junior Python Developer,Wipro,Python & Backend Development,"Bangalore, India",Hybrid,Entry,0,4 - 7 LPA,"Python, Django, SQL, Git, HTML5, Problem Solving",B.Sc / BCA / MCA / B.Tech in Computer Science or IT,"Write clean, testable Python code for backend services, implement database models, and write automated tests.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-20
+50,Junior Python Developer,Cognizant,Python & Backend Development,"Chennai, India",Hybrid,Entry,0,4 - 7 LPA,"Python, Django, SQL, Git, HTML5, Problem Solving, Linux",B.Sc / BCA / MCA / B.Tech in Computer Science or IT,"Write clean, testable Python code for backend services, implement database models, and write automated tests.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-01
+51,Backend Python Engineer,Capgemini,Python & Backend Development,"Mumbai, India",On-site,Mid,2,8 - 15 LPA,"Python, FastAPI, PostgreSQL, Docker, REST API, Redis",Bachelor's / MCA in Computer Science or related degree,"Develop high-performance RESTful microservices, optimize database queries, and integrate caching layers with Redis.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, FastAPI, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-08
+52,Backend Python Engineer,Microsoft,Python & Backend Development,"Hyderabad, India",Hybrid,Mid,2,8 - 15 LPA,"Python, FastAPI, PostgreSQL, Docker, REST API, Redis, Agile Methodology",Bachelor's / MCA in Computer Science or related degree,"Develop high-performance RESTful microservices, optimize database queries, and integrate caching layers with Redis.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, FastAPI, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+53,Backend Python Engineer,JPMorgan Chase,Python & Backend Development,"Mumbai, India",Hybrid,Mid,2,8 - 15 LPA,"Python, FastAPI, PostgreSQL, Docker, REST API, Redis, Communication",Bachelor's / MCA in Computer Science or related degree,"Develop high-performance RESTful microservices, optimize database queries, and integrate caching layers with Redis.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, FastAPI, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+54,Django Web Specialist,Amazon,Python & Backend Development,"Bangalore, India",On-site,Mid,3,9 - 16 LPA,"Python, Django, PostgreSQL, REST API, Git, Agile Methodology, Problem Solving","Degree in Software Engineering, MCA or relevant experience","Architect web portals using Django and Django REST framework, ensuring security, scalability, and fast page loads.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-05
+55,Django Web Specialist,LTI Mindtree,Python & Backend Development,"Chennai, India",Hybrid,Mid,3,9 - 16 LPA,"Python, Django, PostgreSQL, REST API, Git, Agile Methodology, Linux","Degree in Software Engineering, MCA or relevant experience","Architect web portals using Django and Django REST framework, ensuring security, scalability, and fast page loads.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-18
+56,Django Web Specialist,Wipro,Python & Backend Development,"Bangalore, India",Hybrid,Mid,3,9 - 16 LPA,"Python, Django, PostgreSQL, REST API, Git, Agile Methodology, Docker","Degree in Software Engineering, MCA or relevant experience","Architect web portals using Django and Django REST framework, ensuring security, scalability, and fast page loads.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-17
+57,Django Web Specialist,HCL Technologies,Python & Backend Development,"Noida, India",Remote,Mid,3,9 - 16 LPA,"Python, Django, PostgreSQL, REST API, Git, Agile Methodology","Degree in Software Engineering, MCA or relevant experience","Architect web portals using Django and Django REST framework, ensuring security, scalability, and fast page loads.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Django, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+58,Senior Python Systems Architect,Oracle,Python & Backend Development,"Bengaluru, India",Hybrid,Senior,6,22 - 36 LPA,"Python, FastAPI, Docker, Kubernetes, AWS, PostgreSQL, Team Leadership, REST API",Master's or Bachelor's in CS / MCA,"Lead architectural decisions for cloud-native Python services, enforce code quality standards, and mentor junior devs.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, FastAPI, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+59,Senior Python Systems Architect,Tech Mahindra,Python & Backend Development,"Pune, India",Hybrid,Senior,6,22 - 36 LPA,"Python, FastAPI, Docker, Kubernetes, AWS, PostgreSQL, Team Leadership, SQL",Master's or Bachelor's in CS / MCA,"Lead architectural decisions for cloud-native Python services, enforce code quality standards, and mentor junior devs.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, FastAPI, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-15
+60,Senior Python Systems Architect,Reliance Jio,Python & Backend Development,"Navi Mumbai, India",Hybrid,Senior,6,22 - 36 LPA,"Python, FastAPI, Docker, Kubernetes, AWS, PostgreSQL, Team Leadership, Linux",Master's or Bachelor's in CS / MCA,"Lead architectural decisions for cloud-native Python services, enforce code quality standards, and mentor junior devs.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, FastAPI, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-04
+61,Python API Developer,Deloitte,Python & Backend Development,"Hyderabad, India",On-site,Mid,2,7.5 - 13 LPA,"Python, Flask, SQL, REST API, Unit Testing, Git, Communication",MCA / BCA / B.Tech in Computer Science,"Design, test, and document RESTful endpoints using Flask and Swagger. Ensure 99.9% API uptime and low latency.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Flask, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-11
+62,Python API Developer,Google,Python & Backend Development,"Bangalore, India",Hybrid,Mid,2,7.5 - 13 LPA,"Python, Flask, SQL, REST API, Unit Testing, Git, Agile Methodology",MCA / BCA / B.Tech in Computer Science,"Design, test, and document RESTful endpoints using Flask and Swagger. Ensure 99.9% API uptime and low latency.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Flask, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-19
+63,Python API Developer,Deloitte,Python & Backend Development,"Hyderabad, India",On-site,Mid,2,7.5 - 13 LPA,"Python, Flask, SQL, REST API, Unit Testing, Git",MCA / BCA / B.Tech in Computer Science,"Design, test, and document RESTful endpoints using Flask and Swagger. Ensure 99.9% API uptime and low latency.","- Collaborate with cross-functional teams to design, implement, and maintain Python & Backend Development solutions.
+- Apply best engineering practices in Python, Flask, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+64,Junior Full-Stack Developer,Deloitte,Full-Stack Web Development,"Hyderabad, India",On-site,Entry,0,4.5 - 7.5 LPA,"JavaScript, React, Node.js, HTML5, CSS3, Git, Communication",BCA / MCA / B.Tech in IT or Computer Science,"Build modern, responsive UI components in React and backend services in Node.js. Collaborate with designers.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, React, Node.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+65,Junior Full-Stack Developer,Microsoft,Full-Stack Web Development,"Hyderabad, India",Hybrid,Entry,0,4.5 - 7.5 LPA,"JavaScript, React, Node.js, HTML5, CSS3, Git, SQL",BCA / MCA / B.Tech in IT or Computer Science,"Build modern, responsive UI components in React and backend services in Node.js. Collaborate with designers.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, React, Node.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+66,Junior Full-Stack Developer,Reliance Jio,Full-Stack Web Development,"Navi Mumbai, India",Hybrid,Entry,0,4.5 - 7.5 LPA,"JavaScript, React, Node.js, HTML5, CSS3, Git, Agile Methodology",BCA / MCA / B.Tech in IT or Computer Science,"Build modern, responsive UI components in React and backend services in Node.js. Collaborate with designers.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, React, Node.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+67,Full-Stack React & Node Engineer,Accenture,Full-Stack Web Development,"Gurgaon, India",Hybrid,Mid,3,10 - 18 LPA,"JavaScript, TypeScript, React, Node.js, MongoDB, REST API, Problem Solving","Bachelor's or Master's in CS, MCA or related field","End-to-end full stack development: React frontend state management, Express backend APIs, and NoSQL databases.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-24
+68,Full-Stack React & Node Engineer,JPMorgan Chase,Full-Stack Web Development,"Mumbai, India",Hybrid,Mid,3,10 - 18 LPA,"JavaScript, TypeScript, React, Node.js, MongoDB, REST API, Linux","Bachelor's or Master's in CS, MCA or related field","End-to-end full stack development: React frontend state management, Express backend APIs, and NoSQL databases.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-08
+69,Full-Stack React & Node Engineer,Paytm,Full-Stack Web Development,"Noida, India",On-site,Mid,3,10 - 18 LPA,"JavaScript, TypeScript, React, Node.js, MongoDB, REST API","Bachelor's or Master's in CS, MCA or related field","End-to-end full stack development: React frontend state management, Express backend APIs, and NoSQL databases.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+70,Full-Stack React & Node Engineer,TCS,Full-Stack Web Development,"Mumbai, India",Hybrid,Mid,3,10 - 18 LPA,"JavaScript, TypeScript, React, Node.js, MongoDB, REST API, Communication","Bachelor's or Master's in CS, MCA or related field","End-to-end full stack development: React frontend state management, Express backend APIs, and NoSQL databases.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+71,Senior MERN Stack Developer,Capgemini,Full-Stack Web Development,"Mumbai, India",On-site,Senior,5,18 - 28 LPA,"React, Node.js, Express.js, MongoDB, TypeScript, Docker, REST API",B.Tech / MCA / M.Sc Software Engineering,"Drive architecture of large-scale MERN applications, conduct code reviews, and implement CI/CD deployment pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in React, Node.js, Express.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-14
+72,Senior MERN Stack Developer,Zomato,Full-Stack Web Development,"Gurgaon, India",Hybrid,Senior,5,18 - 28 LPA,"React, Node.js, Express.js, MongoDB, TypeScript, Docker, Git",B.Tech / MCA / M.Sc Software Engineering,"Drive architecture of large-scale MERN applications, conduct code reviews, and implement CI/CD deployment pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in React, Node.js, Express.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+73,Senior MERN Stack Developer,Tech Mahindra,Full-Stack Web Development,"Pune, India",Hybrid,Senior,5,18 - 28 LPA,"React, Node.js, Express.js, MongoDB, TypeScript, Docker, Communication",B.Tech / MCA / M.Sc Software Engineering,"Drive architecture of large-scale MERN applications, conduct code reviews, and implement CI/CD deployment pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in React, Node.js, Express.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-02
+74,Senior MERN Stack Developer,Flipkart,Full-Stack Web Development,"Bangalore, India",Hybrid,Senior,5,18 - 28 LPA,"React, Node.js, Express.js, MongoDB, TypeScript, Docker, SQL",B.Tech / MCA / M.Sc Software Engineering,"Drive architecture of large-scale MERN applications, conduct code reviews, and implement CI/CD deployment pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in React, Node.js, Express.js.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-26
+75,Frontend Web Engineer,Deloitte,Full-Stack Web Development,"Hyderabad, India",On-site,Mid,2,7 - 14 LPA,"JavaScript, TypeScript, React, HTML5, CSS3, Git, Agile Methodology",Bachelor's in CS / IT / MCA,"Create pixel-perfect, accessible web interfaces. Optimize bundle size, Core Web Vitals, and responsive layouts.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+76,Frontend Web Engineer,Goldman Sachs,Full-Stack Web Development,"Bengaluru, India",Hybrid,Mid,2,7 - 14 LPA,"JavaScript, TypeScript, React, HTML5, CSS3, Git, Linux",Bachelor's in CS / IT / MCA,"Create pixel-perfect, accessible web interfaces. Optimize bundle size, Core Web Vitals, and responsive layouts.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-05
+77,Frontend Web Engineer,Swiggy,Full-Stack Web Development,"Bangalore, India",Remote,Mid,2,7 - 14 LPA,"JavaScript, TypeScript, React, HTML5, CSS3, Git, Problem Solving",Bachelor's in CS / IT / MCA,"Create pixel-perfect, accessible web interfaces. Optimize bundle size, Core Web Vitals, and responsive layouts.","- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in JavaScript, TypeScript, React.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+78,Full-Stack Angular & Java Developer,Deloitte,Full-Stack Web Development,"Hyderabad, India",On-site,Mid,3,11 - 19 LPA,"Java, Spring Boot, Angular, TypeScript, SQL, Git, Communication",B.Tech / MCA in Computer Science,Develop enterprise web apps combining modern Angular frontend with robust Spring Boot microservices backend.,"- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Angular.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-15
+79,Full-Stack Angular & Java Developer,Goldman Sachs,Full-Stack Web Development,"Bengaluru, India",Hybrid,Mid,3,11 - 19 LPA,"Java, Spring Boot, Angular, TypeScript, SQL, Git, Communication",B.Tech / MCA in Computer Science,Develop enterprise web apps combining modern Angular frontend with robust Spring Boot microservices backend.,"- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Angular.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-02
+80,Full-Stack Angular & Java Developer,Tech Mahindra,Full-Stack Web Development,"Pune, India",Hybrid,Mid,3,11 - 19 LPA,"Java, Spring Boot, Angular, TypeScript, SQL, Git",B.Tech / MCA in Computer Science,Develop enterprise web apps combining modern Angular frontend with robust Spring Boot microservices backend.,"- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Angular.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+81,Full-Stack Angular & Java Developer,Deloitte,Full-Stack Web Development,"Hyderabad, India",On-site,Mid,3,11 - 19 LPA,"Java, Spring Boot, Angular, TypeScript, SQL, Git, Problem Solving",B.Tech / MCA in Computer Science,Develop enterprise web apps combining modern Angular frontend with robust Spring Boot microservices backend.,"- Collaborate with cross-functional teams to design, implement, and maintain Full-Stack Web Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Angular.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-14
+82,Associate Java Developer,Paytm,Java & Enterprise Development,"Noida, India",On-site,Entry,0,4.5 - 7.5 LPA,"Java, Spring Boot, SQL, Git, Problem Solving, Agile Methodology",B.Tech / MCA / BCA in Computer Science,"Develop core business logic in Java, write unit tests with JUnit, and participate in daily agile standups.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-28
+83,Associate Java Developer,Flipkart,Java & Enterprise Development,"Bangalore, India",Hybrid,Entry,0,4.5 - 7.5 LPA,"Java, Spring Boot, SQL, Git, Problem Solving",B.Tech / MCA / BCA in Computer Science,"Develop core business logic in Java, write unit tests with JUnit, and participate in daily agile standups.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-06
+84,Associate Java Developer,Flipkart,Java & Enterprise Development,"Bangalore, India",Hybrid,Entry,0,4.5 - 7.5 LPA,"Java, Spring Boot, SQL, Git, Problem Solving",B.Tech / MCA / BCA in Computer Science,"Develop core business logic in Java, write unit tests with JUnit, and participate in daily agile standups.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+85,Associate Java Developer,IBM,Java & Enterprise Development,"Bangalore, India",Remote,Entry,0,4.5 - 7.5 LPA,"Java, Spring Boot, SQL, Git, Problem Solving, Linux",B.Tech / MCA / BCA in Computer Science,"Develop core business logic in Java, write unit tests with JUnit, and participate in daily agile standups.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-10
+86,Java Spring Boot Developer,Goldman Sachs,Java & Enterprise Development,"Bengaluru, India",Hybrid,Mid,2,8.5 - 16 LPA,"Java, Spring Boot, PostgreSQL, REST API, Docker, Git, Linux",B.Tech / MCA / M.Tech in CS or IT,"Design and build resilient enterprise microservices using Spring Boot, Hibernate ORM, and cloud message queues.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-05
+87,Java Spring Boot Developer,Accenture,Java & Enterprise Development,"Gurgaon, India",Hybrid,Mid,2,8.5 - 16 LPA,"Java, Spring Boot, PostgreSQL, REST API, Docker, Git",B.Tech / MCA / M.Tech in CS or IT,"Design and build resilient enterprise microservices using Spring Boot, Hibernate ORM, and cloud message queues.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+88,Java Spring Boot Developer,Microsoft,Java & Enterprise Development,"Hyderabad, India",Hybrid,Mid,2,8.5 - 16 LPA,"Java, Spring Boot, PostgreSQL, REST API, Docker, Git",B.Tech / MCA / M.Tech in CS or IT,"Design and build resilient enterprise microservices using Spring Boot, Hibernate ORM, and cloud message queues.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-24
+89,Java Spring Boot Developer,Cognizant,Java & Enterprise Development,"Chennai, India",Hybrid,Mid,2,8.5 - 16 LPA,"Java, Spring Boot, PostgreSQL, REST API, Docker, Git",B.Tech / MCA / M.Tech in CS or IT,"Design and build resilient enterprise microservices using Spring Boot, Hibernate ORM, and cloud message queues.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, PostgreSQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-02
+90,Senior Java Enterprise Architect,Reliance Jio,Java & Enterprise Development,"Navi Mumbai, India",Hybrid,Senior,6,22 - 38 LPA,"Java, Spring Boot, Kafka, PostgreSQL, Docker, Kubernetes, Team Leadership, Problem Solving",MCA / B.Tech / M.Tech in Computer Science,Direct architectural roadmap for mission-critical banking and fintech Java microservices handling millions of transactions.,"- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Kafka.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-02
+91,Senior Java Enterprise Architect,Reliance Jio,Java & Enterprise Development,"Navi Mumbai, India",Hybrid,Senior,6,22 - 38 LPA,"Java, Spring Boot, Kafka, PostgreSQL, Docker, Kubernetes, Team Leadership, Communication",MCA / B.Tech / M.Tech in Computer Science,Direct architectural roadmap for mission-critical banking and fintech Java microservices handling millions of transactions.,"- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Kafka.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-28
+92,Senior Java Enterprise Architect,Wipro,Java & Enterprise Development,"Bangalore, India",Hybrid,Senior,6,22 - 38 LPA,"Java, Spring Boot, Kafka, PostgreSQL, Docker, Kubernetes, Team Leadership, Communication",MCA / B.Tech / M.Tech in Computer Science,Direct architectural roadmap for mission-critical banking and fintech Java microservices handling millions of transactions.,"- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Kafka.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-20
+93,Senior Java Enterprise Architect,Amazon,Java & Enterprise Development,"Bangalore, India",On-site,Senior,6,22 - 38 LPA,"Java, Spring Boot, Kafka, PostgreSQL, Docker, Kubernetes, Team Leadership, Agile Methodology",MCA / B.Tech / M.Tech in Computer Science,Direct architectural roadmap for mission-critical banking and fintech Java microservices handling millions of transactions.,"- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, Spring Boot, Kafka.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+94,Core Java Backend Engineer,JPMorgan Chase,Java & Enterprise Development,"Mumbai, India",Hybrid,Mid,3,10 - 17 LPA,"Java, SQL, REST API, Unit Testing, Git, Agile Methodology",Bachelor's or MCA in Computer Science,"Maintain and upgrade distributed multi-threaded Java applications, tuning garbage collection and latency.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, SQL, REST API.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-19
+95,Core Java Backend Engineer,HCL Technologies,Java & Enterprise Development,"Noida, India",Remote,Mid,3,10 - 17 LPA,"Java, SQL, REST API, Unit Testing, Git, Agile Methodology",Bachelor's or MCA in Computer Science,"Maintain and upgrade distributed multi-threaded Java applications, tuning garbage collection and latency.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, SQL, REST API.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-20
+96,Core Java Backend Engineer,Amazon,Java & Enterprise Development,"Bangalore, India",On-site,Mid,3,10 - 17 LPA,"Java, SQL, REST API, Unit Testing, Git, Agile Methodology",Bachelor's or MCA in Computer Science,"Maintain and upgrade distributed multi-threaded Java applications, tuning garbage collection and latency.","- Collaborate with cross-functional teams to design, implement, and maintain Java & Enterprise Development solutions.
+- Apply best engineering practices in Java, SQL, REST API.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+97,Business Analyst,IBM,Business Intelligence & Analysis,"Bangalore, India",Remote,Entry,1,5 - 8 LPA,"SQL, Excel, Agile Methodology, Communication, Problem Solving, Tableau",MBA / MCA / B.Tech / BBA with analytical focus,"Bridge the gap between business stakeholders and tech teams. Formulate user stories, acceptance criteria, and workflows.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Excel, Agile Methodology.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+98,Business Analyst,Cognizant,Business Intelligence & Analysis,"Chennai, India",Hybrid,Entry,1,5 - 8 LPA,"SQL, Excel, Agile Methodology, Communication, Problem Solving, Tableau",MBA / MCA / B.Tech / BBA with analytical focus,"Bridge the gap between business stakeholders and tech teams. Formulate user stories, acceptance criteria, and workflows.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Excel, Agile Methodology.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+99,Business Analyst,Flipkart,Business Intelligence & Analysis,"Bangalore, India",Hybrid,Entry,1,5 - 8 LPA,"SQL, Excel, Agile Methodology, Communication, Problem Solving, Tableau",MBA / MCA / B.Tech / BBA with analytical focus,"Bridge the gap between business stakeholders and tech teams. Formulate user stories, acceptance criteria, and workflows.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Excel, Agile Methodology.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+100,Business Analyst,Tech Mahindra,Business Intelligence & Analysis,"Pune, India",Hybrid,Entry,1,5 - 8 LPA,"SQL, Excel, Agile Methodology, Communication, Problem Solving, Tableau, Docker",MBA / MCA / B.Tech / BBA with analytical focus,"Bridge the gap between business stakeholders and tech teams. Formulate user stories, acceptance criteria, and workflows.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Excel, Agile Methodology.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-15
+101,Senior Business Analyst,Amazon,Business Intelligence & Analysis,"Bangalore, India",On-site,Senior,5,14 - 24 LPA,"SQL, Agile Methodology, Scrum, Communication, Presentation Skills, Power BI, Git","Master's in Business, Information Systems, MCA or equivalent","Lead requirement elicitation workshops, manage product backlogs, and deliver data-backed strategic recommendations.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Agile Methodology, Scrum.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-15
+102,Senior Business Analyst,HCL Technologies,Business Intelligence & Analysis,"Noida, India",Remote,Senior,5,14 - 24 LPA,"SQL, Agile Methodology, Scrum, Communication, Presentation Skills, Power BI","Master's in Business, Information Systems, MCA or equivalent","Lead requirement elicitation workshops, manage product backlogs, and deliver data-backed strategic recommendations.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Agile Methodology, Scrum.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-03
+103,Senior Business Analyst,Goldman Sachs,Business Intelligence & Analysis,"Bengaluru, India",Hybrid,Senior,5,14 - 24 LPA,"SQL, Agile Methodology, Scrum, Communication, Presentation Skills, Power BI","Master's in Business, Information Systems, MCA or equivalent","Lead requirement elicitation workshops, manage product backlogs, and deliver data-backed strategic recommendations.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Agile Methodology, Scrum.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-17
+104,Senior Business Analyst,IBM,Business Intelligence & Analysis,"Bangalore, India",Remote,Senior,5,14 - 24 LPA,"SQL, Agile Methodology, Scrum, Communication, Presentation Skills, Power BI, Problem Solving","Master's in Business, Information Systems, MCA or equivalent","Lead requirement elicitation workshops, manage product backlogs, and deliver data-backed strategic recommendations.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in SQL, Agile Methodology, Scrum.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-30
+105,BI Developer (Power BI / Tableau),Amazon,Business Intelligence & Analysis,"Bangalore, India",On-site,Mid,3,8.5 - 15 LPA,"Power BI, Tableau, SQL, Excel, Data Analysis, Communication, Agile Methodology","Bachelor's or MCA in CS, Statistics or IT","Build automated reporting dashboards, model complex star-schema data models, and ensure high reporting reliability.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in Power BI, Tableau, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-12
+106,BI Developer (Power BI / Tableau),Oracle,Business Intelligence & Analysis,"Bengaluru, India",Hybrid,Mid,3,8.5 - 15 LPA,"Power BI, Tableau, SQL, Excel, Data Analysis, Communication, Problem Solving","Bachelor's or MCA in CS, Statistics or IT","Build automated reporting dashboards, model complex star-schema data models, and ensure high reporting reliability.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in Power BI, Tableau, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-15
+107,BI Developer (Power BI / Tableau),Goldman Sachs,Business Intelligence & Analysis,"Bengaluru, India",Hybrid,Mid,3,8.5 - 15 LPA,"Power BI, Tableau, SQL, Excel, Data Analysis, Communication, Docker","Bachelor's or MCA in CS, Statistics or IT","Build automated reporting dashboards, model complex star-schema data models, and ensure high reporting reliability.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in Power BI, Tableau, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-20
+108,BI Developer (Power BI / Tableau),Tech Mahindra,Business Intelligence & Analysis,"Pune, India",Hybrid,Mid,3,8.5 - 15 LPA,"Power BI, Tableau, SQL, Excel, Data Analysis, Communication, Git","Bachelor's or MCA in CS, Statistics or IT","Build automated reporting dashboards, model complex star-schema data models, and ensure high reporting reliability.","- Collaborate with cross-functional teams to design, implement, and maintain Business Intelligence & Analysis solutions.
+- Apply best engineering practices in Power BI, Tableau, SQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+109,Database Administrator (DBA),LTI Mindtree,Database Administration & Engineering,"Chennai, India",Hybrid,Mid,3,9 - 16 LPA,"SQL, PostgreSQL, MySQL, Linux, Problem Solving, Communication",BCA / MCA / B.Tech in Computer Science,"Manage database instances, execute schema migrations, configure automatic backups, and fine-tune slow queries.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in SQL, PostgreSQL, MySQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+110,Database Administrator (DBA),Infosys,Database Administration & Engineering,"Pune, India",Remote,Mid,3,9 - 16 LPA,"SQL, PostgreSQL, MySQL, Linux, Problem Solving, Docker",BCA / MCA / B.Tech in Computer Science,"Manage database instances, execute schema migrations, configure automatic backups, and fine-tune slow queries.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in SQL, PostgreSQL, MySQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-04
+111,Database Administrator (DBA),TCS,Database Administration & Engineering,"Mumbai, India",Hybrid,Mid,3,9 - 16 LPA,"SQL, PostgreSQL, MySQL, Linux, Problem Solving",BCA / MCA / B.Tech in Computer Science,"Manage database instances, execute schema migrations, configure automatic backups, and fine-tune slow queries.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in SQL, PostgreSQL, MySQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+112,Database Administrator (DBA),Oracle,Database Administration & Engineering,"Bengaluru, India",Hybrid,Mid,3,9 - 16 LPA,"SQL, PostgreSQL, MySQL, Linux, Problem Solving, Agile Methodology",BCA / MCA / B.Tech in Computer Science,"Manage database instances, execute schema migrations, configure automatic backups, and fine-tune slow queries.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in SQL, PostgreSQL, MySQL.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-23
+113,Senior PostgreSQL Specialist,Accenture,Database Administration & Engineering,"Gurgaon, India",Hybrid,Senior,5,18 - 30 LPA,"PostgreSQL, SQL, Linux, Docker, Python, Problem Solving",Bachelor's or Master's in CS / MCA,"Optimize high-throughput relational databases, set up streaming replication, high availability, and disaster recovery.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in PostgreSQL, SQL, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-17
+114,Senior PostgreSQL Specialist,Paytm,Database Administration & Engineering,"Noida, India",On-site,Senior,5,18 - 30 LPA,"PostgreSQL, SQL, Linux, Docker, Python, Problem Solving",Bachelor's or Master's in CS / MCA,"Optimize high-throughput relational databases, set up streaming replication, high availability, and disaster recovery.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in PostgreSQL, SQL, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+115,Senior PostgreSQL Specialist,Microsoft,Database Administration & Engineering,"Hyderabad, India",Hybrid,Senior,5,18 - 30 LPA,"PostgreSQL, SQL, Linux, Docker, Python, Problem Solving, Communication",Bachelor's or Master's in CS / MCA,"Optimize high-throughput relational databases, set up streaming replication, high availability, and disaster recovery.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in PostgreSQL, SQL, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-21
+116,Senior PostgreSQL Specialist,Swiggy,Database Administration & Engineering,"Bangalore, India",Remote,Senior,5,18 - 30 LPA,"PostgreSQL, SQL, Linux, Docker, Python, Problem Solving",Bachelor's or Master's in CS / MCA,"Optimize high-throughput relational databases, set up streaming replication, high availability, and disaster recovery.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in PostgreSQL, SQL, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-02
+117,Data Engineer (Big Data & ETL),Cognizant,Database Administration & Engineering,"Chennai, India",Hybrid,Mid,3,11 - 20 LPA,"Python, SQL, Spark, Kafka, PostgreSQL, Git, Problem Solving",B.Tech / MCA / M.Sc in Computer Science,"Build and maintain robust ETL/ELT pipelines, streaming data ingestion from diverse sources into data lakes.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in Python, SQL, Spark.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-21
+118,Data Engineer (Big Data & ETL),IBM,Database Administration & Engineering,"Bangalore, India",Remote,Mid,3,11 - 20 LPA,"Python, SQL, Spark, Kafka, PostgreSQL, Git, Problem Solving",B.Tech / MCA / M.Sc in Computer Science,"Build and maintain robust ETL/ELT pipelines, streaming data ingestion from diverse sources into data lakes.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in Python, SQL, Spark.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-24
+119,Data Engineer (Big Data & ETL),Zomato,Database Administration & Engineering,"Gurgaon, India",Hybrid,Mid,3,11 - 20 LPA,"Python, SQL, Spark, Kafka, PostgreSQL, Git, REST API",B.Tech / MCA / M.Sc in Computer Science,"Build and maintain robust ETL/ELT pipelines, streaming data ingestion from diverse sources into data lakes.","- Collaborate with cross-functional teams to design, implement, and maintain Database Administration & Engineering solutions.
+- Apply best engineering practices in Python, SQL, Spark.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-18
+120,Cloud DevOps Engineer,TCS,Cloud Computing & DevOps,"Mumbai, India",Hybrid,Mid,2,9 - 17 LPA,"AWS, Docker, Kubernetes, CI/CD, Linux, Git, Communication",B.Tech / MCA in Computer Science / IT,"Implement Infrastructure as Code, streamline automated CI/CD deployment pipelines, and maintain cloud infrastructure.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in AWS, Docker, Kubernetes.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+121,Cloud DevOps Engineer,Infosys,Cloud Computing & DevOps,"Pune, India",Remote,Mid,2,9 - 17 LPA,"AWS, Docker, Kubernetes, CI/CD, Linux, Git",B.Tech / MCA in Computer Science / IT,"Implement Infrastructure as Code, streamline automated CI/CD deployment pipelines, and maintain cloud infrastructure.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in AWS, Docker, Kubernetes.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-27
+122,Cloud DevOps Engineer,Capgemini,Cloud Computing & DevOps,"Mumbai, India",On-site,Mid,2,9 - 17 LPA,"AWS, Docker, Kubernetes, CI/CD, Linux, Git, Problem Solving",B.Tech / MCA in Computer Science / IT,"Implement Infrastructure as Code, streamline automated CI/CD deployment pipelines, and maintain cloud infrastructure.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in AWS, Docker, Kubernetes.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-14
+123,Senior AWS Solutions Architect,Microsoft,Cloud Computing & DevOps,"Hyderabad, India",Hybrid,Senior,5,20 - 35 LPA,"AWS, Terraform, Docker, Kubernetes, Linux, Team Leadership",MCA / B.Tech in CS or relevant cloud certifications,"Architect resilient, fault-tolerant, and secure multi-tier applications across AWS cloud availability zones.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in AWS, Terraform, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-12
+124,Senior AWS Solutions Architect,Microsoft,Cloud Computing & DevOps,"Hyderabad, India",Hybrid,Senior,5,20 - 35 LPA,"AWS, Terraform, Docker, Kubernetes, Linux, Team Leadership, SQL",MCA / B.Tech in CS or relevant cloud certifications,"Architect resilient, fault-tolerant, and secure multi-tier applications across AWS cloud availability zones.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in AWS, Terraform, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+125,Senior AWS Solutions Architect,LTI Mindtree,Cloud Computing & DevOps,"Chennai, India",Hybrid,Senior,5,20 - 35 LPA,"AWS, Terraform, Docker, Kubernetes, Linux, Team Leadership, Agile Methodology",MCA / B.Tech in CS or relevant cloud certifications,"Architect resilient, fault-tolerant, and secure multi-tier applications across AWS cloud availability zones.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in AWS, Terraform, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+126,Site Reliability Engineer (SRE),Capgemini,Cloud Computing & DevOps,"Mumbai, India",On-site,Mid,3,12 - 22 LPA,"Linux, Python, Docker, Kubernetes, CI/CD, Problem Solving, REST API","Degree in Computer Science, MCA or related technical field","Maximize service uptime, establish SLAs/SLOs, automate incident response, and resolve complex production anomalies.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in Linux, Python, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-20
+127,Site Reliability Engineer (SRE),Infosys,Cloud Computing & DevOps,"Pune, India",Remote,Mid,3,12 - 22 LPA,"Linux, Python, Docker, Kubernetes, CI/CD, Problem Solving, Agile Methodology","Degree in Computer Science, MCA or related technical field","Maximize service uptime, establish SLAs/SLOs, automate incident response, and resolve complex production anomalies.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in Linux, Python, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-28
+128,Site Reliability Engineer (SRE),Wipro,Cloud Computing & DevOps,"Bangalore, India",Hybrid,Mid,3,12 - 22 LPA,"Linux, Python, Docker, Kubernetes, CI/CD, Problem Solving","Degree in Computer Science, MCA or related technical field","Maximize service uptime, establish SLAs/SLOs, automate incident response, and resolve complex production anomalies.","- Collaborate with cross-functional teams to design, implement, and maintain Cloud Computing & DevOps solutions.
+- Apply best engineering practices in Linux, Python, Docker.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+129,QA Automation Engineer,Google,Software Quality & Testing,"Bangalore, India",Hybrid,Mid,2,6.5 - 12 LPA,"Selenium, Python, Java, Git, Unit Testing, Problem Solving",BCA / MCA / B.Tech in Computer Science,"Create automated functional test suites using Selenium WebDriver, integrate tests into Jenkins CI/CD pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, Python, Java.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-24
+130,QA Automation Engineer,Cognizant,Software Quality & Testing,"Chennai, India",Hybrid,Mid,2,6.5 - 12 LPA,"Selenium, Python, Java, Git, Unit Testing, Problem Solving, REST API",BCA / MCA / B.Tech in Computer Science,"Create automated functional test suites using Selenium WebDriver, integrate tests into Jenkins CI/CD pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, Python, Java.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-26
+131,QA Automation Engineer,LTI Mindtree,Software Quality & Testing,"Chennai, India",Hybrid,Mid,2,6.5 - 12 LPA,"Selenium, Python, Java, Git, Unit Testing, Problem Solving, Agile Methodology",BCA / MCA / B.Tech in Computer Science,"Create automated functional test suites using Selenium WebDriver, integrate tests into Jenkins CI/CD pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, Python, Java.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+132,QA Automation Engineer,Wipro,Software Quality & Testing,"Bangalore, India",Hybrid,Mid,2,6.5 - 12 LPA,"Selenium, Python, Java, Git, Unit Testing, Problem Solving, Communication",BCA / MCA / B.Tech in Computer Science,"Create automated functional test suites using Selenium WebDriver, integrate tests into Jenkins CI/CD pipelines.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, Python, Java.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-13
+133,Lead Software Quality Analyst,Paytm,Software Quality & Testing,"Noida, India",On-site,Senior,5,15 - 25 LPA,"Selenium, CI/CD, Unit Testing, Agile Methodology, Team Leadership",MCA / B.Tech with QA certification (ISTQB),"Lead the testing strategy across web and mobile products, defining regression suites and release acceptance gates.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, CI/CD, Unit Testing.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-07
+134,Lead Software Quality Analyst,Zomato,Software Quality & Testing,"Gurgaon, India",Hybrid,Senior,5,15 - 25 LPA,"Selenium, CI/CD, Unit Testing, Agile Methodology, Team Leadership, SQL",MCA / B.Tech with QA certification (ISTQB),"Lead the testing strategy across web and mobile products, defining regression suites and release acceptance gates.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, CI/CD, Unit Testing.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-10
+135,Lead Software Quality Analyst,Deloitte,Software Quality & Testing,"Hyderabad, India",On-site,Senior,5,15 - 25 LPA,"Selenium, CI/CD, Unit Testing, Agile Methodology, Team Leadership",MCA / B.Tech with QA certification (ISTQB),"Lead the testing strategy across web and mobile products, defining regression suites and release acceptance gates.","- Collaborate with cross-functional teams to design, implement, and maintain Software Quality & Testing solutions.
+- Apply best engineering practices in Selenium, CI/CD, Unit Testing.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-01
+136,Cybersecurity Analyst,Flipkart,Cybersecurity & Networks,"Bangalore, India",Hybrid,Mid,2,8 - 15 LPA,"Cybersecurity, Network Security, Linux, Python, Problem Solving, SQL",B.Tech / MCA / M.Sc in Cybersecurity or Computer Science,"Monitor SIEM logs, conduct vulnerability assessments, and respond rapidly to potential security threats.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-09
+137,Cybersecurity Analyst,Amazon,Cybersecurity & Networks,"Bangalore, India",On-site,Mid,2,8 - 15 LPA,"Cybersecurity, Network Security, Linux, Python, Problem Solving, Docker",B.Tech / MCA / M.Sc in Cybersecurity or Computer Science,"Monitor SIEM logs, conduct vulnerability assessments, and respond rapidly to potential security threats.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-12
+138,Cybersecurity Analyst,Tech Mahindra,Cybersecurity & Networks,"Pune, India",Hybrid,Mid,2,8 - 15 LPA,"Cybersecurity, Network Security, Linux, Python, Problem Solving, REST API",B.Tech / MCA / M.Sc in Cybersecurity or Computer Science,"Monitor SIEM logs, conduct vulnerability assessments, and respond rapidly to potential security threats.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-22
+139,Information Security Specialist,Google,Cybersecurity & Networks,"Bangalore, India",Hybrid,Senior,5,16 - 28 LPA,"Cybersecurity, Network Security, Linux, AWS, Communication",MCA / B.Tech with CEH or CISSP certification,"Design security architectures, enforce zero-trust policies, conduct audits, and ensure compliance with ISO 27001.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-29
+140,Information Security Specialist,IBM,Cybersecurity & Networks,"Bangalore, India",Remote,Senior,5,16 - 28 LPA,"Cybersecurity, Network Security, Linux, AWS, Communication, Problem Solving",MCA / B.Tech with CEH or CISSP certification,"Design security architectures, enforce zero-trust policies, conduct audits, and ensure compliance with ISO 27001.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-19
+141,Information Security Specialist,IBM,Cybersecurity & Networks,"Bangalore, India",Remote,Senior,5,16 - 28 LPA,"Cybersecurity, Network Security, Linux, AWS, Communication, Git",MCA / B.Tech with CEH or CISSP certification,"Design security architectures, enforce zero-trust policies, conduct audits, and ensure compliance with ISO 27001.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-04
+142,Information Security Specialist,HCL Technologies,Cybersecurity & Networks,"Noida, India",Remote,Senior,5,16 - 28 LPA,"Cybersecurity, Network Security, Linux, AWS, Communication, REST API",MCA / B.Tech with CEH or CISSP certification,"Design security architectures, enforce zero-trust policies, conduct audits, and ensure compliance with ISO 27001.","- Collaborate with cross-functional teams to design, implement, and maintain Cybersecurity & Networks solutions.
+- Apply best engineering practices in Cybersecurity, Network Security, Linux.
+- Conduct regular code/system reviews, write documentation, and support agile sprints.
+- Maintain clean code, robust testing, and adhere to security standards.",2026-10-12

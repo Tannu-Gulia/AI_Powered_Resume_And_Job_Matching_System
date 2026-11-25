@@ -1,0 +1,81 @@
+skill_name,category,sub_category,importance_weight,recommended_course,course_platform,course_url
+Python,Technical,Programming Language,5,Python for Everybody Specialization,Coursera,https://www.coursera.org/specializations/python
+Java,Technical,Programming Language,5,Java Programming and Software Engineering Fundamentals,Coursera,https://www.coursera.org/specializations/java-programming
+C++,Technical,Programming Language,4,Coding for Everyone: C and C++,Coursera,https://www.coursera.org/specializations/coding-for-everyone
+C#,Technical,Programming Language,4,C# Programming for Unity Game Development,Coursera,https://www.coursera.org/specializations/csharp-unity-game-development
+JavaScript,Technical,Programming Language,5,The Complete JavaScript Course,Udemy,https://www.udemy.com/course/the-complete-javascript-course/
+TypeScript,Technical,Programming Language,4,Understanding TypeScript,Udemy,https://www.udemy.com/course/understanding-typescript/
+R,Technical,Programming Language,4,R Programming,Coursera,https://www.coursera.org/learn/r-programming
+SQL,Technical,Database,5,The Complete SQL Bootcamp,Udemy,https://www.udemy.com/course/the-complete-sql-bootcamp/
+Go,Technical,Programming Language,3,Programming with Google Go,Coursera,https://www.coursera.org/specializations/google-golang
+Rust,Technical,Programming Language,3,Rust Programming for Beginners,Udemy,https://www.udemy.com/course/rust-lang/
+PHP,Technical,Programming Language,3,PHP for Beginners,Udemy,https://www.udemy.com/course/php-for-beginners-/
+Kotlin,Technical,Programming Language,4,Kotlin for Java Developers,Coursera,https://www.coursera.org/learn/kotlin-for-java-developers
+Swift,Technical,Programming Language,4,iOS App Development with Swift,Coursera,https://www.coursera.org/specializations/app-development
+HTML5,Technical,Web Development,4,"HTML, CSS, and Javascript for Web Developers",Coursera,https://www.coursera.org/learn/html-css-javascript-for-web-developers
+CSS3,Technical,Web Development,4,Advanced CSS and Sass,Udemy,https://www.udemy.com/course/advanced-css-and-sass/
+React,Technical,Web Framework,5,React - The Complete Guide,Udemy,https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+Angular,Technical,Web Framework,4,Angular - The Complete Guide,Udemy,https://www.udemy.com/course/the-complete-guide-to-angular-2/
+Vue.js,Technical,Web Framework,4,Vue - The Complete Guide,Udemy,https://www.udemy.com/course/vuejs-2-the-complete-guide/
+Node.js,Technical,Backend Framework,5,Node.js Developer Course,Udemy,https://www.udemy.com/course/the-complete-nodejs-developer-course-2/
+Express.js,Technical,Backend Framework,4,NodeJS & Express Framework,Udemy,https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/
+Django,Technical,Web Framework,5,Django for Beginners & Professionals,Udemy,https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
+Flask,Technical,Web Framework,4,REST APIs with Flask and Python,Udemy,https://www.udemy.com/course/rest-api-flask-and-python/
+FastAPI,Technical,Web Framework,4,FastAPI - Modern Python Web APIs,Udemy,https://www.udemy.com/course/fastapi-the-complete-course/
+Spring Boot,Technical,Backend Framework,5,"Spring Boot 3, Spring 6 & Hibernate",Udemy,https://www.udemy.com/course/spring-hibernate-tutorial/
+ASP.NET Core,Technical,Backend Framework,4,Complete ASP.NET Core MVC Bootcamp,Udemy,https://www.udemy.com/course/complete-aspnet-core-mvc-bootcamp/
+Machine Learning,Technical,AI / ML,5,Machine Learning Specialization by Andrew Ng,Coursera,https://www.coursera.org/specializations/machine-learning-introduction
+Deep Learning,Technical,AI / ML,5,Deep Learning Specialization,Coursera,https://www.coursera.org/specializations/deep-learning
+Natural Language Processing,Technical,AI / ML,5,Natural Language Processing Specialization,Coursera,https://www.coursera.org/specializations/natural-language-processing-nlp
+NLP,Technical,AI / ML,5,NLP in Python with Spacy & NLTK,Coursera,https://www.coursera.org/specializations/natural-language-processing-nlp
+Computer Vision,Technical,AI / ML,4,Deep Learning for Computer Vision,Coursera,https://www.coursera.org/learn/deep-learning-in-computer-vision
+TensorFlow,Technical,AI Library,5,DeepLearning.AI TensorFlow Developer,Coursera,https://www.coursera.org/professional-certificates/tensorflow-in-practice
+PyTorch,Technical,AI Library,5,Deep Neural Networks with PyTorch,Coursera,https://www.coursera.org/learn/deep-neural-networks-with-pytorch
+Scikit-learn,Technical,AI Library,5,Applied Machine Learning in Python,Coursera,https://www.coursera.org/learn/python-machine-learning
+Pandas,Technical,Data Analysis,5,Data Analysis with Python and Pandas,Coursera,https://www.coursera.org/learn/data-analysis-with-python
+NumPy,Technical,Data Analysis,5,Applied Data Science with Python,Coursera,https://www.coursera.org/specializations/data-science-python
+Matplotlib,Technical,Data Visualization,4,Data Visualization with Python,Coursera,https://www.coursera.org/learn/python-for-data-visualization
+Seaborn,Technical,Data Visualization,4,Python for Data Science and Machine Learning,Udemy,https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+Tableau,Technical,BI & Analytics,5,Tableau Desktop Specialist Certification,Coursera,https://www.coursera.org/learn/data-visualization-tableau
+Power BI,Technical,BI & Analytics,5,Microsoft Power BI Data Analyst Professional,Coursera,https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst
+Excel,Technical,BI & Analytics,4,Excel Skills for Business,Coursera,https://www.coursera.org/specializations/excel
+Statistics,Technical,Data Science,5,Statistics with Python Specialization,Coursera,https://www.coursera.org/specializations/statistics-with-python
+Big Data,Technical,Data Engineering,4,Big Data Specialization,Coursera,https://www.coursera.org/specializations/big-data
+Spark,Technical,Data Engineering,5,Apache Spark 3 for Data Engineering,Udemy,https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
+Hadoop,Technical,Data Engineering,3,The Ultimate Hands-On Hadoop,Udemy,https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/
+Kafka,Technical,Data Engineering,4,Apache Kafka for Beginners,Udemy,https://www.udemy.com/course/apache-kafka/
+PostgreSQL,Technical,Database,5,PostgreSQL for Everybody,Coursera,https://www.coursera.org/specializations/postgresql-for-everybody
+MySQL,Technical,Database,5,MySQL Database Administration,Coursera,https://www.coursera.org/learn/database-structures-and-management-with-mysql
+MongoDB,Technical,Database,4,MongoDB - The Complete Developer's Guide,Udemy,https://www.udemy.com/course/mongodb-the-complete-developers-guide/
+Redis,Technical,Database,4,Redis: The Complete Developer's Guide,Udemy,https://www.udemy.com/course/redis-the-complete-developers-guide-with-microservices/
+Oracle,Technical,Database,4,Oracle SQL Databases Masterclass,Udemy,https://www.udemy.com/course/oracle-sql-step-by-step/
+Snowflake,Technical,Cloud Data Warehouse,4,Snowflake Masterclass,Udemy,https://www.udemy.com/course/ultimate-snowpro-core-certification/
+AWS,Technical,Cloud Computing,5,AWS Certified Solutions Architect Associate,Coursera,https://www.coursera.org/learn/aws-cloud-solutions-architect
+Azure,Technical,Cloud Computing,5,Microsoft Azure Fundamentals AZ-900,Coursera,https://www.coursera.org/learn/microsoft-azure-fundamentals-az-900
+GCP,Technical,Cloud Computing,4,Google Cloud Platform Fundamentals,Coursera,https://www.coursera.org/learn/gcp-fundamentals
+Docker,Technical,DevOps & Containers,5,Docker & Kubernetes: The Practical Guide,Udemy,https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
+Kubernetes,Technical,DevOps & Containers,5,Certified Kubernetes Administrator (CKA),Udemy,https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+Git,Technical,Version Control,5,Version Control with Git,Coursera,https://www.coursera.org/learn/version-control-with-git
+GitHub,Technical,Version Control,5,Git & GitHub Crash Course,Udemy,https://www.udemy.com/course/git-and-github-bootcamp/
+CI/CD,Technical,DevOps,4,Continuous Integration and Continuous Deployment,Coursera,https://www.coursera.org/learn/continuous-integration-continuous-deployment
+Jenkins,Technical,DevOps,4,Jenkins: Beginner to Advanced,Udemy,https://www.udemy.com/course/jenkins-from-zero-to-hero/
+Terraform,Technical,DevOps,4,HashiCorp Certified: Terraform Associate,Udemy,https://www.udemy.com/course/terraform-beginner-to-advanced/
+Linux,Technical,Operating System,4,Linux for Beginners,Udemy,https://www.udemy.com/course/linux-for-beginners/
+Unit Testing,Technical,Testing,4,Testing in Python & PyTest,Coursera,https://www.coursera.org/learn/unit-testing
+Selenium,Technical,Automated Testing,4,Selenium WebDriver with Java,Udemy,https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/
+Cybersecurity,Technical,Security,4,Google Cybersecurity Professional Certificate,Coursera,https://www.coursera.org/professional-certificates/google-cybersecurity
+Network Security,Technical,Security,4,Introduction to Cyber Security,Coursera,https://www.coursera.org/specializations/intro-cyber-security
+REST API,Technical,Web Architecture,5,API Design and Fundamentals of Google Cloud's Apigee,Coursera,https://www.coursera.org/learn/api-design-fundamentals
+GraphQL,Technical,Web Architecture,4,GraphQL with React: The Complete Developers Guide,Udemy,https://www.udemy.com/course/graphql-with-react-course/
+Communication,Soft Skill,Interpersonal,5,"Effective Communication: Writing, Design, and Presentation",Coursera,https://www.coursera.org/specializations/effective-communication
+Problem Solving,Soft Skill,Analytical,5,Problem Solving Using Computational Thinking,Coursera,https://www.coursera.org/learn/computational-thinking-problem-solving
+Team Leadership,Soft Skill,Management,5,Inspiring and Motivating Individuals,Coursera,https://www.coursera.org/learn/motivating-people-teams
+Critical Thinking,Soft Skill,Analytical,4,Critical Thinking Skills for Success,Coursera,https://www.coursera.org/learn/critical-thinking-skills
+Agile Methodology,Soft Skill,Management,5,Agile with Atlassian Jira,Coursera,https://www.coursera.org/learn/agile-atlassian-jira
+Scrum,Soft Skill,Management,4,Scrum Master Certification Prep,Coursera,https://www.coursera.org/learn/scrum-master-certification
+Time Management,Soft Skill,Productivity,4,"Work Smarter, Not Harder: Time Management",Coursera,https://www.coursera.org/learn/work-smarter-not-harder
+Adaptability,Soft Skill,Personal Development,4,Developing Adaptability in the Workplace,LinkedIn Learning,https://www.linkedin.com/learning/developing-adaptability
+Collaboration,Soft Skill,Interpersonal,4,Teamwork Skills: Communicating Effectively in Groups,Coursera,https://www.coursera.org/learn/teamwork-skills-effective-communication
+Presentation Skills,Soft Skill,Interpersonal,4,Successful Presentation,Coursera,https://www.coursera.org/learn/presentation-skills
+Analytical Thinking,Soft Skill,Analytical,5,Data-Driven Decision Making,Coursera,https://www.coursera.org/learn/decision-making-data
+Negotiation,Soft Skill,Business,4,Successful Negotiation: Essential Strategies and Skills,Coursera,https://www.coursera.org/learn/negotiation-skills
